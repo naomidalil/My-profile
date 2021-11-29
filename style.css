@@ -1,0 +1,176 @@
+body {
+
+                background-color: #EADEDE;
+
+                text-align: justify;
+
+                font-family: 'Lato', sans-serif;
+
+}
+
+ 
+
+h1{
+
+                color: #F58840;
+
+                font-size: 32px;
+
+                text-align: center;
+
+                font-family: 'Lato', sans-serif;
+
+                text-decoration: overline;
+
+                text-decoration: unset;
+  
+                
+
+}
+p {
+
+               text-align: center;
+
+}
+
+ 
+
+h2{
+
+                color: white;
+
+                font-size: 25px;
+
+                background-color: #FEC260;
+
+                font-family: 'Lato', sans-serif;
+
+                text-align: center;
+
+}
+
+ 
+
+p {
+
+                color: black;
+
+                font-size: 15px;
+
+                line-height: 2;
+
+                text-align: center;
+
+                font-family: 'Lato', sans-serif;
+
+ 
+
+}
+
+ 
+
+#PhotoMoi {
+
+                border-radius: 50px;
+
+}
+
+ 
+
+ 
+
+.presentation {
+
+                background-color:#F7FBFC ;
+
+                border-radius:10px ;
+
+                margin: 30px 80px;
+
+                padding: 40px;
+
+                box-shadow: 0 10px 30px rgba(0,0,0,.1);
+
+                text-align: center;
+
+ 
+
+}
+
+ 
+
+.list-inline {
+
+                list-style: none;
+
+ 
+
+}
+
+ 
+
+.list-inline li {
+
+                display: inline;
+
+                padding: 5px;
+
+ 
+
+}
+
+ 
+
+.list-inline i {
+
+                font-size: 40px;
+
+               
+
+ 
+
+ 
+
+}
+
+ 
+
+ 
+
+@media (max-width: 960px) {
+
+  /* For a screen < 960px, this CSS will be read */
+
+  .container {
+
+    width: 700px;
+
+  }
+
+}
+
+@media (max-width: 720px) {
+
+  /* For a screen < 720px, this CSS will be read */
+
+  .container {
+
+    width: 500px;
+
+  }
+
+}
+
+@media (max-width: 540px) {
+
+  /* For a screen < 540px, this CSS will be read */
+
+  .container {
+
+    width: 300px;
+
+  }
+
+}
+
+s
